@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#container {
+  width: 100vw;
+  height: 90vh;
+  display: block;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+#controls {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: left;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
