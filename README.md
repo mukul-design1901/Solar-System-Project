@@ -1,4 +1,4 @@
-# 3D Solar System Simulation – [Your Name]
+# 3D Solar System Simulation – [Mukul Chittora]
 
 ## Description
 This is a 3D simulation of the Solar System built using Three.js. It includes:
